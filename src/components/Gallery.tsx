@@ -35,7 +35,7 @@ import Img34 from "../Assets/IMG_7135 3.webp";
 
 
 
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 
 interface ImgProps {
     src: string;
